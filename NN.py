@@ -10,4 +10,4 @@ class NN(object):
 			swm.append(rand(ns(i-1)+(~bn(i-1)==0),ns(i))*2-1)
 		self.swm=
 		pass
-		
+swm
